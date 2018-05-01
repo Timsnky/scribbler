@@ -1,4 +1,3 @@
-# Kimberly Thompson
 # 01/05/2018
 # moveFromObstacle.py
 # Move a sribbler robot while check presence of

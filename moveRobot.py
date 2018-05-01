@@ -1,4 +1,3 @@
-# Kimberly Thompson
 # 01/05/2018
 # moveRobot.py
 # Move a sribbler robot upto a wall the turn back
